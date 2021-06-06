@@ -14,11 +14,11 @@ a{
   text-decoration: none;
 }
 
-.container{
-  /* width: 60%;
+/* .container{
+  width: 60%;
   margin-left: auto;
-  margin-right: auto; */
-}
+  margin-right: auto;
+} */
 
 /* styled navigation */
 .navbar{
@@ -53,6 +53,7 @@ a{
 .navbar ul li a:hover{
   color: blue;
 }
+
 
 /* styled hero section */
 
@@ -119,4 +120,22 @@ a{
 .portfolio tr td img{
   border-radius: 5px;
 }
+/*Styled about me section */
 
+.about{
+  width: 60%;
+  margin: 1em auto;
+}
+.about h1{
+  margin-top: 1em;
+}
+.about h1,p{
+  text-align: center;
+}
+ .about ol{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   text-align: ;
+   
+ }
