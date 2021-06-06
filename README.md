@@ -1,5 +1,5 @@
 # Portfolio-Landing-Page
-#### This is my portfolio landing page, June 5,2021
+#### This is my portfolio landing page June 5,2021
 #### By **Kiptoo Victor**
 ## Description
 This is a  my portfolio website that highlights projects i have undertaken during my studies at Moringa school. The purpose of this web application is to help me consolidate various concepts learnt during the week i.e  CSS and HTML e.t.c.
