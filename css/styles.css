@@ -13,11 +13,12 @@ a{
   text-decoration: none;
 }
 
-/* .container{
-  width: 60%;
+.container{
+  background-color: lightgreen;
+  /* width: 60%;
   margin-left: auto;
-  margin-right: auto;
-} */
+  margin-right: auto; */
+}
 
 /* styled navigation */
 .navbar{
